@@ -1,4 +1,4 @@
-# first_app
+# Simple sum, Todo and Simple Product app from API calling
 
 A new Flutter project.
 
